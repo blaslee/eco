@@ -1,5 +1,5 @@
 #blas lee and gabriel mihalache
-#this code downloads data from the bank of spain website and unzips it into three respective folders
+#this code downloads data from the bank of spain website and unzips .txt files into three respective folders
 
 #imports necessary libraries
 import zipfile
