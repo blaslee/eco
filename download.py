@@ -45,15 +45,7 @@ for saldfile in saldfiles:
 
 print("Unzipping...")
 
-#Shoves unzipped files into their respective directories
+#Unzipped files inserted into their respective directories
 for dir in ("Prim", "Carv", "Sald"):
     for file in glob.glob(os.path.join(dir, "*.zip")):
         unzip(file, dir)
-
-#Reference code for later
-#for filename in filenames:
-    #with zipfile.ZipFile(filename, 'r') as zip_ref:
-    #   zip_ref.extractall(directory_to_extract_to)
-    #print(filename)
-
-#data1988 = pandas.read_csv("repo1988/repo1988.txt",sep =";")
