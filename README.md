@@ -1,0 +1,2 @@
+# eco // analyzing maturity structure of spanish government (1988 - 2006)
+In this project, I analyzed microdata provided by the Bank of Spain on debt quantity prior to their economic collapse.This was particularly rewarding because I learned a great deal about the behavior of fixed income securities in an applied academic setting. It was also interesting to explore the response of Spain throughout the year and their manipulation of interest rates to try to alleviate economic distress.
